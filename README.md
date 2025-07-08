@@ -48,4 +48,4 @@ Fitur utamanya meliputi:
 Dibuat oleh Narendra Fajar Pamungkas, A.Md.Kom untuk technical skill test di PT. Staffbook Teknologi Asia.
 
 Thanks for checking out the project!
-If you want to reach out, feel free to contact me.
+If you want to reach out, feel free to contact me.  
